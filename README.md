@@ -97,7 +97,7 @@ Are you a:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EE7B7&width=435&lines=Design+%2B+Code+%3D+🔥;Creating+Cool+Things+Everyday!;Let%27s+Work+Together+%F0%9F%92%AA" alt="Typing SVG" />
+  <
 </p>
 
 <p align="center">
