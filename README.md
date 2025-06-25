@@ -35,7 +35,7 @@
 
 ## 🚀 Projects Showcase
 
-### 🎯 **[AI Resume Analyzer]((https://huggingface.co/spaces/koushik-resume/analyzer](https://huggingface.co/spaces/koushik16/FINAL_AI_RESUME_ANALYZER))**
+### 🎯 [AI Resume Analyzer](https://huggingface.co/spaces/koushik16/FINAL_AI_RESUME_ANALYZER)
 > 🤖 Gemini AI-powered tool that analyzes and enhances resumes!  
 > 📝 Upload → Analyze → Get feedback → Download improved version  
 > 🔒 Optional resume sharing with hiring teams  
@@ -72,9 +72,6 @@
 
 ---
 
-
-
-
 ## ✨ Fun Facts
 
 - 🧠 Learning Blender & AI APIs for next-level designs
@@ -95,10 +92,6 @@ Are you a:
 📧 Or email me at [designerkoushik256@gmail.com](mailto:designerkoushik256@gmail.com)
 
 ---
-
-<p align="center">
-  <
-</p>
 
 <p align="center">
   <em>“Design is not just what it looks like. Design is how it works.” – Steve Jobs</em>
