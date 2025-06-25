@@ -35,7 +35,7 @@
 
 ## 🚀 Projects Showcase
 
-### 🎯 **[AI Resume Analyzer](https://huggingface.co/spaces/koushik-resume/analyzer)**
+### 🎯 **[AI Resume Analyzer]([https://huggingface.co/spaces/koushik-resume/analyzer](https://huggingface.co/spaces/koushik16/FINAL_AI_RESUME_ANALYZER))**
 > 🤖 Gemini AI-powered tool that analyzes and enhances resumes!  
 > 📝 Upload → Analyze → Get feedback → Download improved version  
 > 🔒 Optional resume sharing with hiring teams  
