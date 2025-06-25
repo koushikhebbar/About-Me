@@ -72,12 +72,38 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushik-fv7qj&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-fv7qj&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## 🎮 Fun & Interactive Zone
+
+> Take a break, enjoy, and still stay in dev mode 😄
+
+### 🧱 Snake Game (from your contributions)
+
+[![Play Snake](https://github.com/koushik-fv7qj/koushik-fv7qj/raw/output/github-contribution-grid-snake.svg)](https://github.com/koushik-fv7qj)
+
+---
+
+### 🎯 GitHub Profile Trophy Cabinet
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=koushik-fv7qj&theme=monokai&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S)
+
+---
+
+### ⌨️ Typing Speed Test
+
+[Click Here to Test Your Typing Speed](https://monkeytype.com/)  
+Can you beat 120 WPM? 🏁 Challenge yourself!
+
+---
+
+### 📦 Cool GitHub Repositories
+
+- [**30 Seconds of Code**](https://github.com/30-seconds/30-seconds-of-code): Short, useful JavaScript code snippets!
+- [**CSSFX**](https://cssfx.dev/): Beautiful ready-to-use CSS effects (great for portfolio)
+- [**Framer Motion**](https://www.framer.com/motion/): React animation library you already use!
+
+---
 
 ---
 
