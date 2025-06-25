@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6EE7B7;">Koushik Hebbar</span>!</h1>
 <p align="center">
   🎨 <strong>Freelance Designer</strong> | 💻 <strong>Code + Creativity = Vibes</strong><br>
-  📍 Karnataka, India &nbsp;|&nbsp; 🎓 BCA @ MGM Evening College </p>
+  📍 Karnataka, India &nbsp;|&nbsp; 🎓 BCA @ MGM Evening College 
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koushik-fv7qj&label=Profile%20Views&color=0E9F6E&style=flat" alt="profile views"/>
