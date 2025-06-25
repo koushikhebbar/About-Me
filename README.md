@@ -1,110 +1,111 @@
-# 👋 Hi, I’m Koushik Hebbar
+<h1 align="center">👋 Hi, I'm <span style="color:#6EE7B7;">Koushik Hebbar</span>!</h1>
+<p align="center">
+  🎨 <strong>Freelance Designer</strong> | 💻 <strong>Code + Creativity = Vibes</strong><br>
+  📍 Karnataka, India &nbsp;|&nbsp; 🎓 BCA @ MGM Evening College
+</p>
 
-🎨 **Freelance Designer** | 💻 **Code + Creativity = Vibes**  
-🎓 BCA Student at MGM Evening College, Karnataka  
-📍 Karnataka, India  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koushik-fv7qj&label=Profile%20Views&color=0E9F6E&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/koushik-hebbar-798605293"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" /></a>
+  <a href="https://www.instagram.com/koushik.psd/"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square" /></a>
+  <a href="mailto:designerkoushik256@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" /></a>
+</p>
 
 ---
 
-## 🌐 Portfolio & Profiles
+## 🌐 Portfolio & Socials
 
-- 🌐 **Portfolio Website**: [big-members-388769.framer.app](https://big-members-388769.framer.app/)
+- 🎨 **Portfolio**: [View My Work](https://big-members-388769.framer.app/)
 - 📸 **Instagram**: [@koushik.psd](https://www.instagram.com/koushik.psd/)
-- 🎨 **Behance**: [behance.net/koushikhebbar1](https://www.behance.net/koushikhebbar1)
-- 💼 **LinkedIn**: [linkedin.com/in/koushik-hebbar](https://www.linkedin.com/in/koushik-hebbar-798605293)
-- ✉️ **Email**: designerkoushik256@gmail.com
+- 🎨 **Behance**: [@koushikhebbar1](https://www.behance.net/koushikhebbar1)
+- 💼 **LinkedIn**: [Connect Here](https://www.linkedin.com/in/koushik-hebbar-798605293)
+- 📬 **Email**: designerkoushik256@gmail.com
 
 ---
 
-## 🛠️ Skills
+## 🛠️ My Skills
 
-### 🎨 Design & Creative
-- YouTube Thumbnail Design (2+ years)
-- UI/UX Design (Figma, Framer)
-- Graphic Design (Social Media, Posters, Branding)
-- Photoshop, Canva, Illustrator (Basic)
-- Creative Video Editing (Basic)
-
-### 💻 Development
-- HTML, CSS, JavaScript
-- Python (Streamlit, Flask)
-- SQL (Basic)
-- Firebase (Basic)
-- Git & GitHub
-
-### ⚙️ Tools
-- Figma, Framer, Photoshop
-- Hugging Face Spaces
-- Netlify / Retifly
-- VS Code, Canva
+| Design 🎨                  | Development 💻         | Tools ⚙️             |
+|---------------------------|------------------------|----------------------|
+| Photoshop, Canva, Figma   | HTML, CSS, JavaScript  | Git & GitHub         |
+| Framer, UI/UX Design      | Python, Streamlit      | Firebase (basic)     |
+| Illustrator (basic), Thumbnails | Flask, SQL (basic)     | Hugging Face Spaces  |
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Showcase
 
-### 🔹 [AI Resume Analyzer](https://huggingface.co/spaces/koushik-resume/analyzer](https://huggingface.co/spaces/koushik16/FINAL_AI_RESUME_ANALYZER)
-A smart resume analyzer that:
-- Uses **Google Gemini AI** to give personalized CV feedback
-- Generates an improved version of the uploaded resume
-- Allows optional sharing with recruiters
+### 🎯 **[AI Resume Analyzer](https://huggingface.co/spaces/koushik-resume/analyzer)**
+> 🤖 Gemini AI-powered tool that analyzes and enhances resumes!  
+> 📝 Upload → Analyze → Get feedback → Download improved version  
+> 🔒 Optional resume sharing with hiring teams  
 
-🛠️ **Built With**: `Python`, `Streamlit`, `Gemini AI`, `Hugging Face`, `SQLite`
-
----
-
-### 🔹 **Smart City Traveller** *(BCA Final Year Project)*  
-An AI-based web platform that:
-- Suggests popular places based on date, time, location & interest (e.g., fashion, movies)
-- Uses Google Maps API for route & real-time traffic
-- Offers personalized recommendations & user ratings
-
-🛠️ **Tech**: HTML, CSS, JS, Python, Google Maps API
+`Python + Streamlit + Gemini AI + Hugging Face + SQLite`
 
 ---
 
-### 🔹 **Daily Worker – Image Generator**
-A practical tool for contractors and labor workers.
+### 🗺️ **Smart City Traveller** *(BCA Final Project)*
+> 🧠 Suggests places based on your time, interest, and location  
+> 🗺️ Google Maps Integration, real-time updates, and reviews  
+> 🤖 AI Chatbot + Personalized suggestions  
 
-- Contractors post work opportunities  
-- Workers mark availability  
-- Auto-generates a **daily attendance image** to share  
-- Useful for managing offline worker groups  
-
-🛠️ **Built With**: `Python`, `Streamlit`, `Pillow`, `SQLite`, `Framer (for UI)`
+`HTML, CSS, JavaScript, Python, Google Maps API`
 
 ---
 
-### 🔹 **Car Rental System**
-A car booking web app with basic admin panel.
+### 👷‍♂️ **Daily Worker – Image Generator**
+> 🛠️ Web tool for contractors & daily workers  
+> ✅ Workers submit availability  
+> 🖼️ Auto-generates daily posters for WhatsApp  
+> 💡 Real-world solution for local hiring  
 
-- User registration/login  
-- Car availability system  
-- Booking management  
-- Admin can add/edit cars and bookings  
+`Python + Streamlit + Pillow + SQLite + Framer`
 
-🛠️ **Built With**: `HTML`, `CSS`, `JS`, `Python (Flask)`, `SQL`
+---
+
+### 🚘 **Car Rental System**
+> 🚗 Book cars, check availability, and manage users  
+> 👨‍💼 Admin dashboard with add/edit features  
+> 🧾 Ideal academic or freelance booking platform  
+
+`Flask + HTML + CSS + SQL`
 
 ---
 
 ## 📊 GitHub Stats
 
-![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushik-fv7qj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-fv7qj&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushik-fv7qj&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik-fv7qj&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 🤝 Let’s Collaborate!
+## ✨ Fun Facts
 
-If you're looking for:
-- 🎯 Eye-catching thumbnails
-- 📱 Clean, modern UI/UX for your app or website
-- 🤖 AI-integrated smart tools
+- 🧠 Learning Blender & AI APIs for next-level designs
+- 🧩 I mix coding + design for a **complete user experience**
+- 🔍 Exploring client projects, freelance gigs, and YouTube collabs
+- 💬 Fluent in English, Hindi & Kannada
 
-Reach out — I’d love to collaborate!
+---
+
+## 🤝 Let’s Collaborate
+
+Are you a:
+- 🎥 YouTuber looking for 🔥 thumbnails?
+- 🧑‍💻 Startup needing modern UI/UX design?
+- 👨‍💼 Brand needing a creative designer who also codes?
 
 📩 DM me on [Instagram](https://www.instagram.com/koushik.psd/)  
 📧 Or email me at [designerkoushik256@gmail.com](mailto:designerkoushik256@gmail.com)
 
 ---
 
-*“Design is intelligence made visible.” – Alina Wheeler*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EE7B7&width=435&lines=Design+%2B+Code+%3D+🔥;Creating+Cool+Things+Everyday!;Let%27s+Work+Together+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <em>“Design is not just what it looks like. Design is how it works.” – Steve Jobs</em>
+</p>
